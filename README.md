@@ -23,10 +23,10 @@ Each game lasts **15 seconds**.
 
 <p align="center">
   <img src="assets/game_play.png" width="400" alt="Darmanhammer gameplay">
-  <img src="assets/game_over.png" width="400" alt="Darmanhammer game over screen">
+  <img src="assets/game_over.png" width="400" alt="Darmanhammer game over">
 </p>
 
-<p align="center"><i>Gameplay — Game Over screen </i></p>
+<p align="center"><i>Gameplay | Game Over </i></p>
 
 ## ⚙️ Installation (macOS)
 

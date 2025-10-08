@@ -19,6 +19,15 @@
 Your goal: **hammer Darmanin** as many times as you can before the timer runs out!  
 Each game lasts **15 seconds**.
 
+## 🎨 Screenshots
+
+<p align="center">
+  <img src="assets/game_play.png" width="400" alt="Darmanhammer gameplay">
+  <img src="assets/game_over.png" width="400" alt="Darmanhammer game over screen">
+</p>
+
+<p align="center"><i>Gameplay — Game Over screen </i></p>
+
 ## ⚙️ Installation (macOS)
 
 ### 1️⃣ Install a modern Ruby (via Homebrew)
